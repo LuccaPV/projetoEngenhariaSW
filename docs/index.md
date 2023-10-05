@@ -24,7 +24,7 @@
 # Autores
 
 Lucca Pivoto De Brito Padilha
-* Aluno 2
+Matheus Vaghetti Gomes
 * Aluno 3
 * Aluno 4
 * Aluno 5
