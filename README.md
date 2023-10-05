@@ -6,7 +6,7 @@
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+O projeto consiste em nossa equipe de profissionais da área de Sistema de Informação, desenvolvermos um Sistema de Gerenciamento das pizzarias da marca "Pizza-Express", com foco em diminuir o tempo geral de entrega de 1 hora(tempo atual) para 30 minutos(tempo ideal ou menos).
 
 # Documentação
 
