@@ -26,7 +26,7 @@
 Lucca Pivoto De Brito Padilha<br>
 Matheus Vaghetti Gomes<br>
 Iago Leite Chain Intacli<br>
-* Aluno 4
+Rafael Riki Nascimento De Oliveira<br>
 * Aluno 5
 * Aluno 6
 
