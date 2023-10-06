@@ -24,8 +24,8 @@
 # Autores
 
 Lucca Pivoto De Brito Padilha
-*Matheus Vaghetti Gomes
-*Iago Leite Chain Intacli
+Matheus Vaghetti Gomes
+Iago Leite Chain Intacli
 * Aluno 4
 * Aluno 5
 * Aluno 6
