@@ -44,6 +44,7 @@ O sistema seria dividido em 2 partes, sendo elas:
 
 # Diagrama de casos de uso
 
+<img src="https://lucid.app/lucidchart/126f0360-e4ff-4fe3-a255-8ee0bb40dbbe/edit?viewport_loc=-944%2C127%2C5572%2C2856%2C0_0&invitationId=inv_9c0d2169-8c05-435e-b7aa-e17b09b51bb9">
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
 
 # Descrição dos casos de uso
